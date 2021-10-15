@@ -1,5 +1,3 @@
-# Algoritmo_Logistics_Hackathon
-
 Problem Statement:
 Logistics in supply chain plays a crucial role in the inventory management of the raw materials required for the operations, The firm will like to make use of data driven approach 
 using ML models so that they can predict which order can get delayed in the future and hence take preventive measures.
